@@ -1,9 +1,9 @@
 # 🧠 Dev Learning Journey
 
-This repository documents the continuous learning path of web development, covering fundamental to advanced topics. It's designed to stay organized, serve as quick revision notes, and help others who are also learning.
+This repository documents the continuous learning path of web development, covering fundamental to advanced topics. It's designed to stay organized, serve as quick revision notes, and help others who are also learning.....
 
 ## 📚 Topics Covered
-- HTML & CSS
+- HTML & CSS!
 - JavaScript (ES6+)
 - React.js
 - Data Structures & Algorithms
@@ -23,4 +23,4 @@ This repository documents the continuous learning path of web development, cover
 
 ---
 
-✨ *Work in progress. Learning never stops.*
+✨ *Work in progress.*
