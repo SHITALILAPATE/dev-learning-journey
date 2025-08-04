@@ -1,7 +1,7 @@
 # 🧠 Dev Learning Journey
 
 Welcome to my web development learning journal!  
-This repo is a personal space where I document everything I’m learning — from the basics to advanced topics — with clear notes, mini projects, and code challenges. Whether you're a beginner like me or revising as a pro, I hope this helps you too! 💖
+This repo is a personal space where I document everything I’m learning — from the basics to advanced topics — with clear notes, mini projects, and code challenges. Whether you're a beginner like me or revising as a pro, I hope this helps you too.....! 💖
 
 ---
 
